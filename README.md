@@ -18,11 +18,11 @@ This keybindings file is focused on keyboard email handling so it has some easy 
 * Navigation between folders
   * **J** Next folder
   * **K** Previous folder
-  * **<option>J** Next folder with unread messages
-  * **<option>K** Previous folder with unread messages
+  * **option-J** Next folder with unread messages
+  * **option-K** Previous folder with unread messages
 * Messages Actions
-  * **<space>** Scroll a page down in the currently displayed message
-  * **<shift><space>** Scroll a page up in the currently displayed message
+  * **space** Scroll a page down in the currently displayed message
+  * **shift-space** Scroll a page up in the currently displayed message
   * **u** Toggle the read state
   * **e** Archive
   * **s** Toggle flag (star)
