@@ -11,7 +11,7 @@ This keybindings file is focused on keyboard email handling so it has some easy 
 * Navigation within a mail spool
   * **j** Move to the next row
   * **k** Move to the previous row
-  * **l** Expand a thread and move to the next unread message
+  * **l** Expand a thread and move to the next unread message (if you open a thread without unread messages, this jumps to next unread mailspool message but not necessarily in the thread)
   * **h** Collapse a thread
   * **g** Jump to the first message
   * **G** Jump to the last message
