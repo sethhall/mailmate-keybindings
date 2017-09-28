@@ -5,7 +5,8 @@
     "~J" = "selectNextCountedMailbox:";
     "K" = "selectPreviousMailboxRow:";
     "~K" = "selectPreviousCountedMailbox:";
-    "l" = ( "expandThread:", "nextUnreadMessage:" );
+    "l" = "expandThread:";
+    ";" = "nextUnreadMessage:";
     "h" = "collapseThread:";
     "g" = "selectFirstMessageRow:";
     "G" = "selectLastMessageRow:";
@@ -30,3 +31,4 @@
     "f"     = "forwardMessage:";
     "#"     = "deleteMessage:";
 }
+
