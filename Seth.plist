@@ -16,6 +16,9 @@
     "z" = "undo:";
     "Z" = "redo:";
 
+    # You have to hit the key twice to take the action!
+    "`" = { "`" = "markAllAsRead:"; };
+
     "@\U000A" = "send:"; // ⌘+return
     "@\U000D" = "send:"; // ⌘+enter
 
