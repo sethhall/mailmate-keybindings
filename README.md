@@ -32,6 +32,7 @@ This keybindings file is focused on keyboard email handling so it has some easy 
   * **f** Forward
   * **#** Delete
   * **!** Move to junk
+  * **\`\`** Mark all messages in a mailbox as read. This is like a bomb in a mailbox and it's activated by pressing the backtick key twice.  Careful! 
 * General
   * **/** Search
   * **z** Undo
