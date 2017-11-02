@@ -11,15 +11,16 @@ This keybindings file is focused on keyboard email handling so it has some easy 
 * Navigation within a mail spool
   * **j** Move to the next row
   * **k** Move to the previous row
-  * **l** Expand a thread and move to the next unread message (if you open a thread without unread messages, this jumps to next unread mailspool message but not necessarily in the thread)
+  * **l** Expand a thread
   * **h** Collapse a thread
   * **g** Jump to the first message
   * **G** Jump to the last message
+  * **;** Jump to the next unread message
 * Navigation between folders
-  * **J** Next folder
-  * **K** Previous folder
-  * **option-J** Next folder with unread messages
-  * **option-K** Previous folder with unread messages
+  * **J** Next folder (shift-j)
+  * **K** Previous folder (shift-k)
+  * **option-J** Next folder with unread messages (option-shift-j)
+  * **option-K** Previous folder with unread messages (option-shift-k)
 * Messages Actions
   * **space** Scroll a page down in the currently displayed message
   * **shift-space** Scroll a page up in the currently displayed message
